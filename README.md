@@ -2,4 +2,4 @@
 
 Hi !
 
-I'm new here and I want to learn a lot of technologies !
+I'm new here and I want to learn a lot about technologies !
